@@ -1,0 +1,15 @@
+{
+  "name": "npm-wrapper",
+  "description": "A dumb class wrapper around npm to make it easy to manage stuff.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DanBUK/npm-wrapper",
+  "repository": "git://github.com/DanBUK/npm-wrapper.git",
+  "author": "Daniel Bartlett <dan@f-box.org> (https://github.com/DanBUK)",
+  "main": "./npm-wrapper",
+  "directories": {
+    "lib": ""
+  },
+  "engines": {
+    "node": "*"
+  }
+}
